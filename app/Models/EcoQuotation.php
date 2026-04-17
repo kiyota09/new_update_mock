@@ -17,6 +17,8 @@ class EcoQuotation extends Model
         'client_id',
         'inquiry_id',
         'quotation_number',
+        'request_new_quote',
+        'reject_reason',
         // 'delivery_date',
         'payment_terms',
         'notes',
